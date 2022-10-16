@@ -28,6 +28,10 @@ between executions. That combination of the function and its scope chain is what
 closure in JavaScript.
 
 ---
-
+## Function Currying
+Currying is a process in functional programming in which we transform a function with multiple
+arguments into a sequence of nesting functions that take one argument at a time.
+function ffa, b,c) is transformed to fla)(b)(c)
+---
 ### [Followed this Video](https://www.youtube.com/watch?v=R9I85RhI7Cg)
 
